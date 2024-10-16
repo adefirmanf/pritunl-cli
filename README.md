@@ -9,7 +9,7 @@ That's It!
 * Create new connection.
 * Import from existing pritunl configuration.
 * Automatically input OTP by using password. 
-* Unecessary UI
+* ~Unecessary UI~
 
 ## Installation 
 `brew install pritunl-cli`
